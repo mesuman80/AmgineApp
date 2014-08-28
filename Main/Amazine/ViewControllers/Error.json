@@ -1,0 +1,45 @@
+{
+    "solutionid": "22307c8d-4b19-48b9-8347-3313ba7d913f",
+    "response": [{
+                 "tbc": 10,
+                 "response": {
+                 "code": 10,
+                 "message": "Hotel no longer available for the hotel Holiday Inn Civic Center San Francisco chosen for Kundu sandeepan in SFO between 10/11/2014 12:00:00 AM and 12/11/2014 12:00:00 AM.",
+                 "resolution": "Cannot Book. Please schedule with another alternative."
+                 }
+                 }, {
+                 "tbc": 7,
+                 "response": {
+                 "metatype": 1,
+                 "value": {
+                 "bookingreferenceid": "P3M78F",
+                 "bookingreferencecompanyname": "DL",
+                 "nameprefix": "Mr",
+                 "givenname": "Roofus",
+                 "surname": "Summers",
+                 "email": "Suman.me80@gmail.com",
+                 "telephone": "6477013018",
+                 "passengertypecode": "ADT",
+                 "totalfare": "606.20",
+                 "totalfarecurrency": "CAD",
+                 "flightsegments": [{
+                                    "departureairport": "JFK",
+                                    "flightnumber": "479",
+                                    "arrivalairport": "ATL",
+                                    "arrivaldatetime": "2014-11-10T08:54:00",
+                                    "journeyduration": "PT2H24M",
+                                    "carrier": "Delta Air Lines",
+                                    "departuredatetime": "2014-11-10T06:30:00"
+                                    }, {
+                                    "departureairport": "ATL",
+                                    "flightnumber": "2260",
+                                    "arrivalairport": "SFO",
+                                    "arrivaldatetime": "2014-11-10T11:49:00",
+                                    "journeyduration": "PT5H09M",
+                                    "carrier": "Delta Air Lines",
+                                    "departuredatetime": "2014-11-10T09:40:00"
+                                    }]
+                 }
+                 }
+                 }]
+}

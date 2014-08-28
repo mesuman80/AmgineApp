@@ -1,0 +1,102 @@
+
+/* Class = "IBUITextField"; placeholder = "Middle"; ObjectID = "1AZ-hy-zJA"; */
+"1AZ-hy-zJA.placeholder" = "Middle";
+
+/* Class = "IBUITextField"; placeholder = "Postal"; ObjectID = "4Dz-1c-EyM"; */
+"4Dz-1c-EyM.placeholder" = "Postal";
+
+/* Class = "IBUILabel"; text = "  Sex  "; ObjectID = "5eC-5N-UaR"; */
+"5eC-5N-UaR.text" = "  Sex  ";
+
+/* Class = "IBUITextField"; placeholder = "Phone"; ObjectID = "8Uo-Cf-78l"; */
+"8Uo-Cf-78l.placeholder" = "Phone";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "BQP-e0-DlK"; */
+"BQP-e0-DlK.title" = "Item";
+
+/* Class = "IBUIButton"; normalTitle = " Speech Request "; ObjectID = "DYc-T6-4OV"; */
+"DYc-T6-4OV.normalTitle" = " Speech Request ";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "Dg2-kL-UG1"; */
+"Dg2-kL-UG1.placeholder" = "City";
+
+/* Class = "IBUIButton"; normalTitle = " Search "; ObjectID = "FTy-hQ-HmX"; */
+"FTy-hQ-HmX.normalTitle" = " Search ";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "IO2-Sf-YGm"; */
+"IO2-Sf-YGm.placeholder" = "Email";
+
+/* Class = "IBUIButton"; normalTitle = " Login "; ObjectID = "Ihe-uY-t8D"; */
+"Ihe-uY-t8D.normalTitle" = " Login ";
+
+/* Class = "IBUINavigationItem"; title = "Traveler Info"; ObjectID = "M55-es-Gvk"; */
+"M55-es-Gvk.title" = "Traveler Info";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "Nc1-v8-ZJm"; */
+"Nc1-v8-ZJm.placeholder" = "Street Address";
+
+/* Class = "IBUITextField"; placeholder = "Province"; ObjectID = "O3b-55-xws"; */
+"O3b-55-xws.placeholder" = "Province";
+
+/* Class = "IBUILabel"; text = "Password :"; ObjectID = "TUo-Ld-rfx"; */
+"TUo-Ld-rfx.text" = "Password :";
+
+/* Class = "IBUINavigationItem"; title = "Passenger Info"; ObjectID = "XRf-Vc-Bfi"; */
+"XRf-Vc-Bfi.title" = "Passenger Info";
+
+/* Class = "IBUISegmentedControl"; Zko-pr-LED.segmentTitles[0] = "Male"; ObjectID = "Zko-pr-LED"; */
+"Zko-pr-LED.segmentTitles[0]" = "Male";
+
+/* Class = "IBUISegmentedControl"; Zko-pr-LED.segmentTitles[1] = "Female"; ObjectID = "Zko-pr-LED"; */
+"Zko-pr-LED.segmentTitles[1]" = "Female";
+
+/* Class = "IBUITextField"; placeholder = "First"; ObjectID = "a05-i1-Rd5"; */
+"a05-i1-Rd5.placeholder" = "First";
+
+/* Class = "IBUIButton"; normalTitle = "  Type Request "; ObjectID = "e47-Zv-X5f"; */
+"e47-Zv-X5f.normalTitle" = "  Type Request ";
+
+/* Class = "IBUIButton"; normalTitle = " CheckOut "; ObjectID = "egn-wG-wkd"; */
+"egn-wG-wkd.normalTitle" = " CheckOut ";
+
+/* Class = "IBUINavigationItem"; title = "Login"; ObjectID = "hkE-zM-wPT"; */
+"hkE-zM-wPT.title" = "Login";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "iHl-ka-DPS"; */
+"iHl-ka-DPS.placeholder" = "Password";
+
+/* Class = "IBUINavigationItem"; title = "Payment Info"; ObjectID = "igi-Dr-S4F"; */
+"igi-Dr-S4F.title" = "Payment Info";
+
+/* Class = "IBUITextField"; placeholder = "Last"; ObjectID = "iqd-sJ-brO"; */
+"iqd-sJ-brO.placeholder" = "Last";
+
+/* Class = "IBUITextField"; placeholder = "Passport Country"; ObjectID = "la8-Hb-O4i"; */
+"la8-Hb-O4i.placeholder" = "Passport Country";
+
+/* Class = "IBUILabel"; text = "Assistance Require"; ObjectID = "nJf-kb-L3z"; */
+"nJf-kb-L3z.text" = "Assistance Require";
+
+/* Class = "IBUISegmentedControl"; osH-L9-Kh1.segmentTitles[0] = "YES"; ObjectID = "osH-L9-Kh1"; */
+"osH-L9-Kh1.segmentTitles[0]" = "YES";
+
+/* Class = "IBUISegmentedControl"; osH-L9-Kh1.segmentTitles[1] = "NO"; ObjectID = "osH-L9-Kh1"; */
+"osH-L9-Kh1.segmentTitles[1]" = "NO";
+
+/* Class = "IBUITextField"; placeholder = "Birthday"; ObjectID = "s5q-Ou-fRh"; */
+"s5q-Ou-fRh.placeholder" = "Birthday";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "tGb-wY-jtP"; */
+"tGb-wY-jtP.placeholder" = "Street Address";
+
+/* Class = "IBUILabel"; text = "Where Would You Like To Go"; ObjectID = "tkv-e7-Q0U"; */
+"tkv-e7-Q0U.text" = "Where Would You Like To Go";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "wPg-ip-wul"; */
+"wPg-ip-wul.title" = "Cancel";
+
+/* Class = "IBUILabel"; text = "UserName:"; ObjectID = "yZL-Sf-M2m"; */
+"yZL-Sf-M2m.text" = "UserName:";
+
+/* Class = "IBUITextField"; placeholder = "Country"; ObjectID = "ymv-Wg-ab8"; */
+"ymv-Wg-ab8.placeholder" = "Country";

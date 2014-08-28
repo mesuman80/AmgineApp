@@ -1,0 +1,138 @@
+{
+	"solutionid": "a4ccfae1-4e48-41ef-956e-d02a581a201d",
+	"response": [{
+                 "tbc": 7,
+                 "response": {
+                 "metatype": 2,
+                 "value": {
+                 "customerSessionId": "0ABAAAB3-6099-9914-7EE2-2F481B90684C",
+                 "itineraryId": 167409597,
+                 "confirmationNumbers": 1234,
+                 "processedWithConfirmation": true,
+                 "supplierType": "E",
+                 "reservationStatusCode": "CF",
+                 "existingItinerary": false,
+                 "numberOfRoomsBooked": 1,
+                 "drivingDirections": "",
+                 "checkInInstructions": "",
+                 "arrivalDate": "08/20/2014",
+                 "departureDate": "08/22/2014",
+                 "hotelName": "Holiday Inn Civic Center San Francisco",
+                 "hotelAddress": "50 8th St",
+                 "hotelCity": "San Francisco",
+                 "hotelStateProvinceCode": "CA",
+                 "hotelPostalCode": 94103,
+                 "hotelCountryCode": "US",
+                 "roomDescription": "Standard Room",
+                 "tripAdvisorRating": 3.5,
+                 "tripAdvisorReviewCount": 656,
+                 "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-12345-4.gif",
+                 "rateOccupancyPerRoom": 1,
+                 "RateInfos": {
+                 "@size": "1",
+                 "RateInfo": {
+                 "@priceBreakdown": "true",
+                 "@promo": "false",
+                 "@rateChange": "true",
+                 "RoomGroup": {
+                 "Room": {
+                 "numberOfAdults": 1,
+                 "numberOfChildren": 0,
+                 "firstName": "Test Booking",
+                 "lastName": "Test Booking",
+                 "bedTypeId": 21,
+                 "bedTypeDescription": "2 double",
+                 "smokingPreference": "NS"
+                 }
+                 },
+                 "ChargeableRateInfo": {
+                 "@averageBaseRate": "279.0",
+                 "@averageRate": "279.0",
+                 "@commissionableUsdTotal": "558.0",
+                 "@currencyCode": "USD",
+                 "@maxNightlyRate": "309.0",
+                 "@nightlyRateTotal": "558.0",
+                 "@grossProfitOffline": "34.65",
+                 "@grossProfitOnline": "78.40",
+                 "@surchargeTotal": "107.17",
+                 "@total": "648.13",
+                 "NightlyRatesPerRoom": {
+                 "@size": "2",
+                 "NightlyRate": [{
+                                 "@baseRate": "249.0",
+                                 "@rate": "249.0",
+                                 "@promo": "false"
+                                 }, {
+                                 "@baseRate": "309.0",
+                                 "@rate": "309.0",
+                                 "@promo": "false"
+                                 }]
+                 },
+                 "Surcharges": {
+                 "@size": "1",
+                 "Surcharge": {
+                 "@type": "TaxAndServiceFee",
+                 "@amount": "107.17"
+                 }
+                 }
+                 },
+                 "cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Holiday Inn Civic Center San Francisco) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT-08:00) Pacific Time (US & Canada); Tijuana) on Aug 18, 2014 are subject to a 1 Night Room & Tax penalty. The property makes no refunds for no shows or early checkouts.",
+                 "CancelPolicyInfoList": {
+                 "CancelPolicyInfo": [{
+                                      "versionId": 204407267,
+                                      "cancelTime": "18:00:00",
+                                      "startWindowHours": 0,
+                                      "nightCount": 1,
+                                      "currencyCode": "USD",
+                                      "timeZoneDescription": "(GMT-08:00) Pacific Time (US &amp; Canada); Tijuana"
+                                      }, {
+                                      "versionId": 208772138,
+                                      "cancelTime": "18:00:00",
+                                      "startWindowHours": 48,
+                                      "nightCount": 0,
+                                      "currencyCode": "USD",
+                                      "timeZoneDescription": "(GMT-08:00) Pacific Time (US &amp; Canada); Tijuana"
+                                      }]
+                 },
+                 "nonRefundable": false,
+                 "rateType": "MerchantStandard"
+                 }
+                 }
+                 }
+                 }
+                 }, {
+                 "tbc": 7,
+                 "response": {
+                 "metatype": 1,
+                 "value": {
+                 "bookingreferenceid": "T7K1P2",
+                 "bookingreferencecompanyname": "AS",
+                 "nameprefix": "Mr",
+                 "givenname": "Roofus",
+                 "surname": "Summers",
+                 "email": "Suman.me80@gmail.com",
+                 "telephone": "6477013018",
+                 "passengertypecode": "ADT",
+                 "totalfare": "663.00",
+                 "totalfarecurrency": "CAD",
+                 "flightsegments": [{
+                                    "departureairport": "JFK",
+                                    "flightnumber": "5626",
+                                    "arrivalairport": "SEA",
+                                    "arrivaldatetime": "2014-08-20T10:05:00",
+                                    "journeyduration": "PT6H05M",
+                                    "carrier": "Alaska Airlines",
+                                    "departuredatetime": "2014-08-20T07:00:00"
+                                    }, {
+                                    "departureairport": "SEA",
+                                    "flightnumber": "306",
+                                    "arrivalairport": "SFO",
+                                    "arrivaldatetime": "2014-08-20T14:10:00",
+                                    "journeyduration": "PT2H10M",
+                                    "carrier": "Alaska Airlines",
+                                    "departuredatetime": "2014-08-20T12:00:00"
+                                    }]
+                 }
+                 }
+                 }]
+}

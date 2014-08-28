@@ -1,0 +1,191 @@
+{
+    "response" =     (
+                    {
+                    "response" =   {
+                                        "flights" = (
+                                               {
+                                               "arrival" = "2014-08-05T14:30:00Z";
+                                               "availableflightid" = "0";
+                                               "carrier" ="AS";
+                                              "cost" = "685.83";
+                                               "departure" = "2014-08-05T10:10:00Z";
+                                               "destination" = "SEA";
+                                               "equipment" = "739";
+                                               "flightnumber" = "23";
+                                               "flighttime" = "880";
+                                               "guid" = "8988b948-da46-4214-ab21-2d0b287c18bb";
+                                               "isalternative" = "0";
+                                               "legs" = "2";
+                                               "origin" = "YYZ";
+                                               "paxguid" = "164ba17a-b4fb-4cc7-a7c1-5ee58cdfd975";
+                                               "seatclass" = "Any";
+                                               "travelsector" = "transborder";
+                                               "traveltime" ="880";
+                                               },
+                                               {
+                                               "arrival" = "2014-08-05T14:30:00Z";
+                                               "availableflightid" = "0";
+                                               "carrier" = "AS";
+                                               "cost" = "685.83";
+                                               "departure" = "2014-08-05T10:10:00Z";
+                                               "destination" = "SEA";
+                                               "equipment" = "739";
+                                               "flightnumber" = "23";
+                                               "flighttime" ="880";
+                                               "guid" = "8988b948-da46-4214-ab21-2d0b287c18bb";
+                                               "isalternative" = "0";
+                                               "legs" = "2";
+                                               "origin" = "YYZ";
+                                               "paxguid" = "8c97156b-024a-4d32-b79b-6e590a2ff31e";
+                                               "seatclass" = "Any";
+                                               "travelsector" ="transborder";
+                                               "traveltime" = "880";
+                                               },
+                                               {
+                                               "arrival" = "2014-08-04T21:36:00Z";
+                                               "availableflightid" = "0";
+                                               "carrier" = "AS";
+                                               "cost" = "403.38";
+                                               "departure" = "2014-08-04T15:15:00Z";
+                                               "destination" = "SEA";
+                                               "equipment" = "737";
+                                               "flightnumber" = "29";
+                                               "flighttime" = "1122";
+                                               "guid" = "14cc4522-ab3e-4434-bfa1-8b85d7a680cf";
+                                               "isalternative" = "1";
+                                               "legs" = "2";
+                                               "origin" = "YYZ";
+                                               "paxguid" = "164ba17a-b4fb-4cc7-a7c1-5ee58cdfd975";
+                                              "seatclass" = "Business";
+                                               "travelsector" = "transborder";
+                                               "traveltime" = "1122";
+                                               },
+                                            );
+                   "hotels" =                 (
+                                              {
+                                              "address1" = "12233 NE Totem Lake Way                           ";
+                                              "address2" = "                                                  ";
+                                              "address3" = "                                                  ";
+                                              "amenities" = "Business Center";
+                                              "chain" = "Carlton Inn KirklandSeattle  ";
+                                              "checkin" = "2014-08-05T04:00:00Z";
+                                              "checkout" = "2014-08-08T04:00:00Z";
+                                              "city" = "SEA       ";
+                                              "citycode" = "SEA       ";
+                                              "cost" = "79.02";
+                                              "guid" = "122c7260-29f3-4912-8fcb-1dad6d2f333d";
+                                              "hotelchain" = "Carlton Inn Kirkland/Seattle  ";
+                                              "hotelcode" = "127163";
+                                              "hotelname"= "Carlton Inn Kirkland/Seattle                                                    ";
+                                              "image" = "http://images.travelnow.com/hotels/1000000/10000/1100/1025/1025_25_t.jpg";
+                                              "isalternative" ="0";
+                                              "latitude" = "47.71227";
+                                              "locationdescription" = "Near Totem Lake Mall";
+                                              "longitude" = "-122.1773";
+                                              "maximumamount" = "0";
+                                              "minimumamount" = "0";
+                                              "paxguid" = "164ba17a-b4fb-4cc7-a7c1-5ee58cdfd975";
+                                              "phone" = "                    ";
+                                              "postalcode" = "98034";
+                                              "roomtype "= "Standard Room, 1 Queen Bed, Non Smoking";
+                                              "shortdescription" = "<p><b>Property Location</b> <br />Located in Kirkland, Carlton Inn Kirkland/Seattle is minutes from Totem Lake Mall and EvergreenHealth Medical Center. This hotel is within close proximity of Novelty";
+                                              "starrating" = "2.5";
+                                              },
+                                              {
+                                              "address1" = "12233 NE Totem Lake Way                           ";
+                                              "address2" = "                                                  ";
+                                              "address3" = "                                                  ";
+                                              "amenities" = "Business Center";
+                                              "chain" = "Carlton Inn KirklandSeattle  ";
+                                              "checkin" = "2014-08-05T04:00:00Z";
+                                              "checkout" = "2014-08-08T04:00:00Z";
+                                              "city" = "SEA       ";
+                                              "citycode" = "SEA       ";
+                                              "cost" = "79.02";
+                                              "guid" = "a2b7c9b9-1415-4852-b479-50065cfc1a56";
+                                              "hotelchain" = "Carlton Inn Kirkland/Seattle  ";
+                                              "hotelcode" = "127163";
+                                              "hotelname" = "Carlton Inn Kirkland/Seattle                                                    ";
+                                              "image" = "http://images.travelnow.com/hotels/1000000/10000/1100/1025/1025_25_t.jpg";
+                                              "isalternative" = "1";
+                                              "latitude" = "47.71227";
+                                              "locationdescription" = "Near Totem Lake Mall";
+                                              "longitude" = "-122.1773";
+                                              "maximumamount" = "0";
+                                             "minimumamount" = "0";
+                                              "paxguid" = "164ba17a-b4fb-4cc7-a7c1-5ee58cdfd975";
+                                              "phone" = "                    ";
+                                              "postalcode" = "98034";
+                                              "roomtype" = "Standard Room, 1 Queen Bed, Non Smoking";
+                                              "shortdescription "= "<p><b>Property Location</b> <br />Located in Kirkland, Carlton Inn Kirkland/Seattle is minutes from Totem Lake Mall and EvergreenHealth Medical Center. This hotel is within close proximity of Novelty";
+                                              "starrating" = "2.5";
+                                              },
+                                                                                           );
+                    "passengers" =                 (
+                                                  {
+                                                 "flights" =                         (
+                                                                                     "8988b948-da46-4214-ab21-2d0b287c18bb",
+                                                                                     "14cc4522-ab3e-4434-bfa1-8b85d7a680cf",
+                                                                                     "29c6ed76-dc68-4162-a75a-7fa8aced87b5",
+                                                                                     "ffbcf073-c3ac-4bae-a935-d97dee3e78dd",
+                                                                                     "29a73044-7caf-4fd2-acea-a7715b403747",
+                                                                                     "970359c2-8a92-45d9-95c3-db843e6ac462",
+                                                                                     "8df0b1e5-f22f-4eda-a02e-a922b2ba3fc6",
+                                                                                     "027b0809-6cab-4c5e-868f-347467a654dd",
+                                                                                     "929f81ef-81f1-4b9d-9827-013a14ba10c4",
+                                                                                     "11b89630-7203-4d1a-8063-e3703ffd5421",
+                                                                                     "f980de50-7faa-411f-87a0-dc45fd067f9a"
+                                                                                     );
+                                                  "hotels" =                         (
+                                                                                    "122c7260-29f3-4912-8fcb-1dad6d2f333d",
+                                                                                    "a2b7c9b9-1415-4852-b479-50065cfc1a56",
+                                                                                    "b4f31524-d6f3-484d-a6d2-793f550f056a",
+                                                                                    "15c5a298-711a-4aea-9b35-a8f95411c05d",
+                                                                                    "529e0b3d-4c2e-45cc-b9c0-6b59ed7f4978",
+                                                                                    "137cacaf-9b1c-44e0-a4ea-8d5d981819f1",
+                                                                                    "48cc3c4f-cbd2-4331-8d62-3d6fe9b6238e",
+                                                                                    "6ecc5c6e-6db2-4008-9768-44d5091dab06",
+                                                                                    "36443cdc-1c8f-4edd-8873-6730827b185d",
+                                                                                    "8f05dcb3-59f0-4d66-9fc9-44d4dac40b00",
+                                                                                    "7573a951-fb82-4c3e-b870-5c0bbfcdfefa"
+                                                                                    );
+                                                  "name" = "Roy";
+                                                  "paxguid" = "164ba17a-b4fb-4cc7-a7c1-5ee58cdfd975";
+                                                  },
+                                                  {
+                                                  "flights" =                         (
+                                                                                     "8988b948-da46-4214-ab21-2d0b287c18bb",
+                                                                                     "3a274175-e150-43b2-a543-972f9c72c033",
+                                                                                     "0983bcf5-1bfd-477f-b8e4-24e255207754",
+                                                                                     "f9cec20a-69ce-43b3-8634-0b6737005e11",
+                                                                                     "ac9884b0-7d92-4e09-afc8-ca4dc42765be",
+                                                                                     "6ebdc12a-401f-4c8e-bd60-10131389f54c",
+                                                                                     "cbe3a090-50f9-451f-b690-fb8b66b1bc45",
+                                                                                     "001f2866-ead4-43ea-8514-ffa441c3cbe1",
+                                                                                     "0519c6cb-8c05-47e5-80a1-6269ef591f0c",
+                                                                                     "35fc3810-68d8-448f-8d33-3f4e2e47c4f5",
+                                                                                     "386ac38d-83e8-42f0-9631-2a494e5ad4e8"
+                                                                                     );
+                                                  "hotels"=                         (
+                                                                                    "5fb4af09-c77d-4bd0-b9cb-5ec0ccb46d23",
+                                                                                    "4237f589-d300-47e5-a489-bb3708ed9f09",
+                                                                                    "487358de-3567-4e10-8dcf-a8fc0bf34ee0",
+                                                                                    "bbd0323e-2c73-476b-88ea-3c63746824d3",
+                                                                                    "f045d0b4-20b1-4059-9228-f787c2b90bbd",
+                                                                                    "8f3a5aba-9fb4-4bc4-a80d-b8aea39ccc4c",
+                                                                                    "882dd309-2ffc-4c5c-a36c-e60d611dab3b",
+                                                                                    "a411e317-ff2f-4948-924b-7cac5ca094b3",
+                                                                                    "91a9dd90-12e7-4d28-950c-bdfe7a6e6477",
+                                                                                    "43505e2a-714c-4468-bbae-6e453d48745e",
+                                                                                    "6a2abac9-e0ca-4660-85d0-c3e5c9b2e3d5"
+                                                                                    );
+                                                  "name" = "Matthew";
+                                                  "paxguid" = "8c97156b-024a-4d32-b79b-6e590a2ff31e";
+                                                  }
+                                                  );
+                    };
+                    "tbc"= 1;
+                    }
+                    );
+    "solutionid" = "5a78bbb5-9e02-472f-9db1-5d9630bbf0eb";
+}

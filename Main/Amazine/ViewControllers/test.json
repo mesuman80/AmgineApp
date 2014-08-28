@@ -1,0 +1,58 @@
+{
+    "solutionid":"e22da847-5262-4934-a060-b2df9061e703",
+    "response": [
+         {
+             "tbc": 7,
+             "response":
+            {
+                "metatype": 1,
+                 "value":
+                 {
+                     "bookingreferenceid": "V993WM",
+                     "bookingreferencecompanyname": "DL",
+                     "nameprefix": "Mr",
+                     "givenname": "Roofus",
+                     "surname": "Summers",
+                     "email": "Suman.me80@gmail.com",
+                     "telephone": "6477013018",
+                     "passengertypecode": "ADT",
+                     "totalfare": "400.90",
+                     "totalfarecurrency": "CAD",
+                     "flightsegments":
+                         [
+                          {
+                              "departureairport": "JFK",
+                              "flightnumber": "415",
+                              "arrivalairport": "SFO",
+                              "arrivaldatetime": "2014-08-20T20:20:00",
+                              "journeyduration": "PT6H51M",
+                              "carrier": "Delta Air Lines",
+                              "departuredatetime": "2014-08-20T16:29:00"
+                              },
+                              {
+                              "departureairport": "JFK",
+                              "flightnumber": "415",
+                              "arrivalairport": "SFO",
+                              "arrivaldatetime": "2014-08-20T20:20:00",
+                              "journeyduration": "PT6H51M",
+                              "carrier": "Delta Air Lines",
+                              "departuredatetime": "2014-08-20T16:29:00"
+                              },
+                          {
+                          "departureairport": "JFK",
+                          "flightnumber": "415",
+                          "arrivalairport": "SFO",
+                          "arrivaldatetime": "2014-08-20T20:20:00",
+                          "journeyduration": "PT6H51M",
+                          "carrier": "Delta Air Lines",
+                          "departuredatetime": "2014-08-20T16:29:00"
+                          }
+                          ]
+                 
+                          
+                      }
+                    }
+            }
+     ]
+                 
+}

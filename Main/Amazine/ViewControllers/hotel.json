@@ -1,0 +1,121 @@
+{
+    "solutionid": "674341c2-f6b5-45f7-90d4-9c93fae3a406",
+    "response": [
+                    {
+                        "tbc": 7,
+                        "response":
+                        {
+                            "metatype": 2,
+                            "value":
+                            {
+                                "customerSessionId": "0ABAAA81-8685-F914-7E62-EB1731907715",
+                                 "itineraryId": 167202286,
+                                 "confirmationNumbers": 1234,
+                                 "processedWithConfirmation": true,
+                                 "supplierType": "E",
+                                 "reservationStatusCode": "CF",
+                                 "existingItinerary": false,
+                                 "numberOfRoomsBooked": 1,
+                                 "drivingDirections": "",
+                                 "checkInInstructions": "",
+                                 "arrivalDate": "10/10/2014",
+                                 "departureDate": "10/12/2014",
+                                 "hotelName": "Le Centre Sheraton Montreal Hotel",
+                                 "hotelAddress": "1201 Boulevard Rene-Levesque West",
+                                 "hotelCity": "Montreal",
+                                 "hotelStateProvinceCode": "QC",
+                                 "hotelPostalCode": "H3B2L7",
+                                 "hotelCountryCode": "CA",
+                                 "roomDescription": "Traditional Room, 1 King Bed (Deluxe)",
+                                 "tripAdvisorRating": 4,
+                                 "tripAdvisorReviewCount": 1364,
+                                 "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-12345-4.gif",
+                                 "rateOccupancyPerRoom": 1,
+                                 "RateInfos":
+                                 {
+                                     "@size": "1",
+                                     "RateInfo":
+                                     {
+                                         "@priceBreakdown": "true",
+                                         "@promo": "false",
+                                         "@rateChange": "false",
+                                         "RoomGroup":
+                                        {
+                                          "Room":
+                                          {
+                                             "numberOfAdults": 1,
+                                             "numberOfChildren": 0,
+                                             "firstName": "Test Booking",
+                                             "lastName": "Test Booking",
+                                             "bedTypeId": 21,
+                                             "bedTypeDescription": "2 double",
+                                             "smokingPreference": "NS"
+                                        }
+                                    },
+                 
+                                 "ChargeableRateInfo": {
+                                 "@averageBaseRate": "281.73",
+                                 "@averageRate": "281.73",
+                                 "@commissionableUsdTotal": "563.46",
+                                 "@currencyCode": "USD",
+                                 "@maxNightlyRate": "281.73",
+                                 "@nightlyRateTotal": "563.46",
+                                 "@grossProfitOffline": "67.42",
+                                 "@grossProfitOnline": "113.47",
+                                 "@surchargeTotal": "118.8",
+                                 "@total": "682.26",
+                                 "NightlyRatesPerRoom": {
+                                 "@size": "2",
+                                 "NightlyRate": [
+                                                 {
+                                                 "@baseRate": "281.73",
+                                                 "@rate": "281.73",
+                                                 "@promo": "false"
+                                                 },
+                                                 {
+                                                 "@baseRate": "281.73",
+                                                 "@rate": "281.73",
+                                                 "@promo": "false"
+                                                 }
+                                                 ]
+                                                },
+                                "Surcharges": {
+                                 "@size": "1",
+                                 "Surcharge": {
+                                 "@type": "TaxAndServiceFee",
+                                 "@amount": "118.8"
+                                 }
+                                 }
+                                 },
+                                 "cancellationPolicy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Le Centre Sheraton Montreal Hotel) imposes the following penalty to its customers that we are required to pass on: cancellations or changes made before 4:00 PM ((GMT-05:00) Eastern Time (US & Canada)) on Oct 7, 2014 are subject to a 1 Night Room & Tax penalty. Cancellations or changes made after 4:00 PM ((GMT-05:00) Eastern Time (US & Canada)) on Oct 7, 2014 are subject to a 100% Cost of Stay penalty. The property makes no refunds for no shows or early checkouts.",
+                                 "CancelPolicyInfoList": {
+                                 "CancelPolicyInfo": [
+                                                      {
+                                                      "versionId": 813040,
+                                                      "cancelTime": "16:00:00",
+                                                      "startWindowHours": 0,
+                                                      "nightCount": 0,
+                                                      "percent": 100,
+                                                      "currencyCode": "USD",
+                                                      "timeZoneDescription": "(GMT-05:00) Eastern Time (US &amp; Canada)"
+                                                      },
+                                                      {
+                                                      "versionId": 208730583,
+                                                      "cancelTime": "16:00:00",
+                                                      "startWindowHours": 72,
+                                                      "nightCount": 1,
+                                                      "currencyCode": "USD",
+                                                      "timeZoneDescription": "(GMT-05:00) Eastern Time (US &amp; Canada)"
+                                                      }
+                                                      ]
+                                 },
+                                 "nonRefundable": false,
+                                 "rateType": "MerchantStandard"
+                                 }
+                                 }
+                                 }
+                 
+                                 }
+                                 }
+                 ]
+}
